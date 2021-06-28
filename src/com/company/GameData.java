@@ -4,6 +4,7 @@ import javax.swing.*;
 
 public class GameData {
     public static String PlayerName;
+    public static int playerSpeed;
     public static int PlayerAge;
     public static final int PANEL_WIDTH = 800;
     public static final int PANEL_HEIGHT = 600;

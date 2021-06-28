@@ -11,8 +11,8 @@ public class Bouncer extends JLabel implements ActionListener {
     Timer timer;
     private int xVelocity = 3;
     private int yVelocity = 3;
-    private int x = 0;
-    private int y = 0;
+    public static int x = 0;
+    public static int y = 0;
     public static Point BouncerPoint = new Point();
 
 
